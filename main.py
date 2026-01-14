@@ -52,6 +52,3 @@ def calculate():
         else:
             print("Невідома операція, спробуйте ще раз.")
 
-
-if __name__ == "__main__":
-    calculate()
